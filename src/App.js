@@ -563,42 +563,42 @@ export default function Portfolio() {
               org: "Simplilearn", 
               domain: "Frontend Architecture", 
               code: "SIMPLI-RCT26",
-              credentialLink: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              credentialLink: "https://lnkd.in/p/g8BNCFma" 
             },
             { 
               name: "Mastering Video Editing with AI", 
               org: "Udemy", 
               domain: "AI & Multimedia", 
               code: "UDEMY-AI25",
-              credentialLink: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              credentialLink: "https://lnkd.in/p/gyzDRjaC" 
             },
             { 
               name: "Code Java in 5 Hours", 
               org: "Udemy", 
               domain: "Software Development", 
               code: "UDEMY-JV25",
-              credentialLink: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              credentialLink: "https://lnkd.in/p/gWfR59ph" 
             },
             { 
               name: "Photoshop & E-Business", 
               org: "Royal ICT", 
               domain: "Digital Design & Business", 
               code: "ROYAL-ICT24",
-              credentialLink: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              credentialLink: "https://lnkd.in/p/gXGv27U7" 
             },
             { 
               name: "Introduction to Golang", 
               org: "Simplilearn", 
               domain: "Backend Engineering", 
               code: "SIMPLI-GO25",
-              credentialLink: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              credentialLink: "https://lnkd.in/p/gcZJTCeq" 
             },
             { 
               name: "Microsoft Office Specialist", 
               org: "Royal ICT", 
               domain: "Productivity Applications", 
               code: "MOS-ICT23",
-              credentialLink: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              credentialLink: "https://lnkd.in/p/gH3tXx-P" 
             }
           ].map((cert, idx) => (
             <div key={idx} className="bg-slate-900/60 p-6 rounded-2xl border border-slate-800/90 hover:border-teal-500/50 transition duration-300 hover:-translate-y-1 group relative overflow-hidden flex flex-col justify-between">
