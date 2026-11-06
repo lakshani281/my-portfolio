@@ -475,7 +475,7 @@ export default function Portfolio() {
               highlight: "Top Performing Team",
               border: "border-amber-500/40 hover:border-amber-400",
               glow: "from-amber-500/10 via-slate-900 to-slate-950",
-              link: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              link: "https://lnkd.in/p/gb-VM5hw" 
             },
             { 
               title: "1st Runner-Up", 
@@ -484,7 +484,7 @@ export default function Portfolio() {
               highlight: "Silver Award Winner",
               border: "border-teal-500/40 hover:border-teal-400",
               glow: "from-teal-500/10 via-slate-900 to-slate-950",
-              link: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              link: "https://lnkd.in/p/gta-wUCu" 
             },
             { 
               title: "Semi-Finalist", 
@@ -493,7 +493,7 @@ export default function Portfolio() {
               highlight: "National Level",
               border: "border-purple-500/40 hover:border-purple-400",
               glow: "from-purple-500/10 via-slate-900 to-slate-950",
-              link: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              link: "https://lnkd.in/p/gp_fdczg" 
             },
             { 
               title: "Most Popular Article Award", 
@@ -502,7 +502,7 @@ export default function Portfolio() {
               highlight: "Highest Reader Engagement",
               border: "border-blue-500/40 hover:border-blue-400",
               glow: "from-blue-500/10 via-slate-900 to-slate-950",
-              link: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              link: "https://lnkd.in/p/gmN3X-HB" 
             },
             { 
               title: "Top 20 Finalist Team", 
@@ -511,7 +511,7 @@ export default function Portfolio() {
               highlight: "Prototype Showcase",
               border: "border-emerald-500/40 hover:border-emerald-400",
               glow: "from-emerald-500/10 via-slate-900 to-slate-950",
-              link: "https://www.linkedin.com/in/lakshani-kaveesha/" 
+              link: "https://lnkd.in/p/gSaUYVqF" 
             }
           ].map((item, idx) => (
             <div key={idx} className={`relative p-6 rounded-2xl bg-gradient-to-br ${item.glow} border ${item.border} transition-all duration-300 hover:-translate-y-1.5 hover:shadow-2xl shadow-lg flex flex-col justify-between group`}>
