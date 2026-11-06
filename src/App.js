@@ -124,7 +124,7 @@ export default function Portfolio() {
 
             <div className="flex flex-wrap gap-4 pt-2">
               <a 
-                href="/Lakshani_Kaveesha_CV.pdf" 
+                href="/Lakshani_Kaveesha_CV..pdf" 
                 download="Lakshani_Kaveesha_CV.pdf"
                 className="px-7 py-3.5 bg-gradient-to-r from-blue-600 to-teal-500 hover:from-blue-500 hover:to-teal-400 text-slate-950 font-bold rounded-xl transition shadow-lg shadow-teal-500/25 flex items-center gap-2 hover:-translate-y-1"
               >
