@@ -159,7 +159,7 @@ export default function Portfolio() {
                 <GithubIcon size={15} /> GitHub
               </a>
               <a 
-                href="https://medium.com" 
+                href="https://medium.com/@lakshanikaveesha992" 
                 target="_blank" 
                 rel="noreferrer"
                 className="px-3.5 py-1.5 bg-slate-900 border border-slate-800 hover:border-teal-500/40 text-slate-300 text-xs rounded-lg transition flex items-center gap-2 hover:text-teal-400"
@@ -714,7 +714,7 @@ export default function Portfolio() {
             <GithubIcon size={18} />
           </a>
           <a 
-            href="https://medium.com" 
+            href="https://medium.com/@lakshanikaveesha992" 
             target="_blank" 
             rel="noreferrer" 
             className="p-3.5 bg-slate-900 border border-slate-800 rounded-xl hover:border-teal-400 text-slate-300 hover:text-teal-400 transition hover:-translate-y-1"
