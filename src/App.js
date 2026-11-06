@@ -143,7 +143,7 @@ export default function Portfolio() {
             <div className="flex items-center gap-4 pt-4 border-t border-slate-800/80 w-full">
               <span className="text-xs font-semibold text-slate-500 uppercase tracking-wider">Connect:</span>
               <a 
-                href="https://linkedin.com" 
+                href="https://www.linkedin.com/in/lakshani-kaveesha/" 
                 target="_blank" 
                 rel="noreferrer"
                 className="px-3.5 py-1.5 bg-slate-900 border border-slate-800 hover:border-teal-500/40 text-slate-300 text-xs rounded-lg transition flex items-center gap-2 hover:text-teal-400"
@@ -151,7 +151,7 @@ export default function Portfolio() {
                 <LinkedinIcon size={15} /> LinkedIn
               </a>
               <a 
-                href="https://www.linkedin.com/in/lakshani-kaveesha/" 
+                href="https://github.com/lakshani281" 
                 target="_blank" 
                 rel="noreferrer"
                 className="px-3.5 py-1.5 bg-slate-900 border border-slate-800 hover:border-teal-500/40 text-slate-300 text-xs rounded-lg transition flex items-center gap-2 hover:text-teal-400"
