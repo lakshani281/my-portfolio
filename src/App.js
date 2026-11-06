@@ -698,7 +698,7 @@ export default function Portfolio() {
         {/* Minimal Social Buttons */}
         <div className="flex justify-center gap-4">
           <a 
-            href="https://linkedin.com" 
+            href="https://www.linkedin.com/in/lakshani-kaveesha/" 
             target="_blank" 
             rel="noreferrer" 
             className="p-3.5 bg-slate-900 border border-slate-800 rounded-xl hover:border-teal-400 text-slate-300 hover:text-teal-400 transition hover:-translate-y-1"
