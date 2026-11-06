@@ -355,7 +355,7 @@ export default function Portfolio() {
               desc: "Developing a location-aware full-stack response platform connecting citizens, volunteers, and teams. Features SOS alerts, incident reporting, interactive maps, and Socket.io communication.",
               tech: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'Socket.io', 'Maps API', 'Tailwind', 'JWT'],
               img: "/images/emergencyx.jpg.png",
-              githubLink: "https://github.com/lakshani281",
+              githubLink: "https://github.com/lakshani281/emergencyx-platform",
               fallback: "https://images.unsplash.com/photo-1587745416684-47953f16f02f?w=600&auto=format&fit=crop&q=60",
               isOngoing: true,
               fitMode: "object-contain"
@@ -366,7 +366,7 @@ export default function Portfolio() {
               desc: "Full-stack e-commerce store with dynamic product catalog filtering, role-based Admin Dashboard, persistent cart, and JWT checkout workflows.",
               tech: ['TypeScript', 'React.js', 'Node.js', 'Express.js', 'MongoDB', 'Tailwind', 'JWT'],
               img: "/images/lumora.jpg.png",
-              githubLink: "https://github.com/lakshani281",
+              githubLink: "https://github.com/lakshani281/lumora-clothing",
               fallback: "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=600&auto=format&fit=crop&q=60",
               isOngoing: false,
               fitMode: "object-cover"
@@ -377,7 +377,7 @@ export default function Portfolio() {
               desc: "Centralized React dashboard for real-time patient safety alerts, multi-camera feeds, computer vision (YOLOv8/OpenCV), and FastAPI integration.",
               tech: ['React.js', 'Python', 'FastAPI', 'MySQL', 'OpenCV', 'YOLOv8'],
               img: "/images/carevision.jpg.png",
-              githubLink: "https://github.com/lakshani281",
+              githubLink: "https://github.com/NadunML/Frontend_CareVision_LK",
               fallback: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600&auto=format&fit=crop&q=60",
               isOngoing: false,
               fitMode: "object-cover"
@@ -388,7 +388,7 @@ export default function Portfolio() {
               desc: "Cross-platform mobile app using React Native for real-time GPS fleet tracking, speed threshold alerts, dynamic route summaries, and RBAC.",
               tech: ['React Native', 'Expo', 'TypeScript', 'Node.js', 'MongoDB', 'GPS'],
               img: "/images/saferide.jpg.png",
-              githubLink: "https://github.com/lakshani281",
+              githubLink: "https://github.com/lakshani281/school-van-safety-app",
               fallback: "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=600&auto=format&fit=crop&q=60",
               isOngoing: false,
               fitMode: "object-contain"
@@ -399,7 +399,7 @@ export default function Portfolio() {
               desc: "AI security dashboard integrating Semgrep static analysis with OpenAI API for automated vulnerability explanations and PostgreSQL tracking.",
               tech: ['FastAPI', 'React.js', 'TypeScript', 'PostgreSQL', 'Semgrep', 'Docker'],
               img: "/images/devguard.jpg.png",
-              githubLink: "https://github.com/lakshani281",
+              githubLink: "https://github.com/lakshani281/DevGuard-AI",
               fallback: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&auto=format&fit=crop&q=60",
               isOngoing: false,
               fitMode: "object-cover"
